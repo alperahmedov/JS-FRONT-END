@@ -1,2 +1,4 @@
 mimi - cat
 dogo  - dog
+Sam - cat
+Pamuk - dog
